@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I love errors
 
 
-### Connect with me:
+### Github Stats:
 
 <!-- <img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/>
 <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayghadavale)](https://github.com/anuraghazra/github-readme-stats)akshayghadavale
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayghadavale)](https://github.com/anuraghazra/github-readme-stats)
