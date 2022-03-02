@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/> -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayghadavale)](https://github.com/anuraghazra/github-readme-stats)
-<meta name="google-site-verification" content="BL0pHvRPqli3OCLgxX0_rFbjE0JnSf1P-qh2OXpDWpU" />
+<meta name="google-site-verification" content="EktP2m1MIVt0fp12EgfCNSt5JDIy7YhQ2a9V0Bg3Zwo" />
