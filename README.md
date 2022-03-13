@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with react.js
 - 💬 Ask me about ...html,css,js
 - 📫 How to reach me: akshayghadavale25@gmail.com
--
+- 🏃 Excuses Don't Get Result
 - ⚡ Fun fact: ...I love errors
 
 
