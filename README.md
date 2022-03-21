@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-[goto github profile](https://github.com/AkshayGhadavale)
+[go_to github profile](https://github.com/AkshayGhadavale)
 - 🔭 I’m currently working in Wipro Private limited as PL/SQL Developer
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on frontend development
