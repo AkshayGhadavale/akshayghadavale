@@ -2,7 +2,7 @@
 
 <!--
 **akshayghadavale/akshayghadavale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[goto github profile](https://github.com/AkshayGhadavale)
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working in Wipro Private limited as PL/SQL Developer
