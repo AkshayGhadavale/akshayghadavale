@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 [go_to github profile](https://github.com/AkshayGhadavale)
-- 🔭 I’m currently working in Wipro Private limited as PL/SQL Developer
+- 🔭 I’m currently working in Accenture as Web Developer
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on frontend development
 - 🤔 I’m looking for help with react.js
